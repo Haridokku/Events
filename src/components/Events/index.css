@@ -1,0 +1,20 @@
+.events-container {
+  display: flex;
+  height: 100vh;
+}
+.event-container {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  background-color: #64748b;
+  padding: 15px;
+}
+.head {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+}
+.list-container {
+  list-style-type: none;
+}
